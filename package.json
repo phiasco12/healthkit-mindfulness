@@ -1,12 +1,12 @@
 {
   "version": "0.5.6",
-  "name": "test",
+  "name": "mindfulness",
   "cordova_name": "HealthKit",
   "description": "Interact with the iOS HealthKit SDK.",
   "license": "MIT",
   "author": "rooz <rooz@gmail.com> (https://github.com/phiasco12)",
-  "repo": "https://github.com/phiasco12/test.git",
-  "issue": "https://github.com/phiasco12/test/issues",
+  "repo": "https://github.com/phiasco12/mindfulness.git",
+  "issue": "https://github.com/phiasco12/mindfulness/issues",
   "keywords": [
     "Health",
     "HealthKit",
