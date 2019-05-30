@@ -4,7 +4,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
     <name>mindful</name>
 
-    <js-module name="mindful" src="www/mindful.js">
+    <js-module name="mindful" src="www/HealthKit.js">
         <clobbers target="mindful" />
     </js-module>
 
