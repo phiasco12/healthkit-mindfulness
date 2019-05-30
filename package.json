@@ -1,0 +1,30 @@
+{
+  "version": "0.5.6",
+  "name": "test",
+  "cordova_name": "HealthKit",
+  "description": "Interact with the iOS HealthKit SDK.",
+  "license": "MIT",
+  "author": "rooz <rooz@gmail.com> (https://github.com/phiasco12)",
+  "repo": "https://github.com/phiasco12/test.git",
+  "issue": "https://github.com/phiasco12/test/issues",
+  "keywords": [
+    "Health",
+    "HealthKit",
+    "Fit",
+    "Fitness",
+    "Birthdate",
+    "Gender",
+    "Height",
+    "Weight",
+    "Workout"
+  ],
+  "platforms": [
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
